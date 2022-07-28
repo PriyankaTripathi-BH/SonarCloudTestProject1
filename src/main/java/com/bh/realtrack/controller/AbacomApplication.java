@@ -15,5 +15,6 @@ public class AbacomApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AbacomApplication.class, args);
+		System.out.println("added print statement");
 	}
 }
