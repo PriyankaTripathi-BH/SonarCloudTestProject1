@@ -4,13 +4,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.bhge</groupId>
-	<artifactId>sonaqube</artifactId>
+	<groupId>com.test</groupId>
+	<artifactId>sonarcloud</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>sonaqube</name>
-	<description>Project For capturing the dataform detail</description>
+	<name>sonarcloud</name>
+	<description>Project For testing sonarcloud</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
